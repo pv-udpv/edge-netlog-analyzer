@@ -6,7 +6,7 @@
 
 <!-- Link to the issue or describe the motivation. -->
 
-Fixes #
+<!-- If applicable, link the issue here, e.g. Fixes: #123 -->
 
 ## How
 

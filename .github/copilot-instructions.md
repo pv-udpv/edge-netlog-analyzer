@@ -1,7 +1,7 @@
 # Copilot Instructions — edge-netlog-analyzer
 
 > Loaded automatically by GitHub Copilot coding agent. Keep concise and specific.
-> Primary language: **mixed**. Default branch: `main`.
+> Primary language: **Python**. Default branch: `main`.
 
 ## Project intent
 
